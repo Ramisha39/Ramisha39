@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **How to Improve myself**
+- 🔭 I’m currently working on **How to Improve Myself**
 
-- 🌱 I’m currently learning **Python, ML**
+- 🌱 I’m currently learning **AI, ML**
 
 - 💬 Ask me about **Sleep, Food**
 
